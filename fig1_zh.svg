@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="504">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="20" y="30" font-family="Arial" font-size="16" font-weight="bold">RxnText-Bench 字段级抽取准确率(1300 个实例)</text>
+<text x="190" y="74" font-family="Arial" font-size="13" text-anchor="end">反应物</text>
+<rect x="200" y="60" width="287.2" height="20" fill="#4C72B0" rx="3"/>
+<text x="491.2" y="74" font-family="Arial" font-size="12">0.72</text>
+<rect x="420.0" y="60" width="343.6" height="20" fill="#DD8452" rx="3"/>
+<text x="767.6" y="74" font-family="Arial" font-size="12">0.86</text>
+<text x="190" y="120" font-family="Arial" font-size="13" text-anchor="end">试剂</text>
+<rect x="200" y="106" width="116.4" height="20" fill="#4C72B0" rx="3"/>
+<text x="320.4" y="120" font-family="Arial" font-size="12">0.29</text>
+<rect x="420.0" y="106" width="303.6" height="20" fill="#DD8452" rx="3"/>
+<text x="727.6" y="120" font-family="Arial" font-size="12">0.76</text>
+<text x="190" y="166" font-family="Arial" font-size="13" text-anchor="end">催化剂</text>
+<rect x="200" y="152" width="339.2" height="20" fill="#4C72B0" rx="3"/>
+<text x="543.2" y="166" font-family="Arial" font-size="12">0.85</text>
+<rect x="420.0" y="152" width="328.8" height="20" fill="#DD8452" rx="3"/>
+<text x="752.8" y="166" font-family="Arial" font-size="12">0.82</text>
+<text x="190" y="212" font-family="Arial" font-size="13" text-anchor="end">溶剂</text>
+<rect x="200" y="198" width="170.4" height="20" fill="#4C72B0" rx="3"/>
+<text x="374.4" y="212" font-family="Arial" font-size="12">0.43</text>
+<rect x="420.0" y="198" width="398.0" height="20" fill="#DD8452" rx="3"/>
+<text x="822.0" y="212" font-family="Arial" font-size="12">0.99</text>
+<text x="190" y="258" font-family="Arial" font-size="13" text-anchor="end">温度(℃)</text>
+<rect x="200" y="244" width="395.2" height="20" fill="#4C72B0" rx="3"/>
+<text x="599.2" y="258" font-family="Arial" font-size="12">0.99</text>
+<rect x="420.0" y="244" width="400.0" height="20" fill="#DD8452" rx="3"/>
+<text x="824.0" y="258" font-family="Arial" font-size="12">1.00</text>
+<text x="190" y="304" font-family="Arial" font-size="13" text-anchor="end">时间</text>
+<rect x="200" y="290" width="386.0" height="20" fill="#4C72B0" rx="3"/>
+<text x="590.0" y="304" font-family="Arial" font-size="12">0.96</text>
+<rect x="420.0" y="290" width="392.0" height="20" fill="#DD8452" rx="3"/>
+<text x="816.0" y="304" font-family="Arial" font-size="12">0.98</text>
+<text x="190" y="350" font-family="Arial" font-size="13" text-anchor="end">产率</text>
+<rect x="200" y="336" width="393.6" height="20" fill="#4C72B0" rx="3"/>
+<text x="597.6" y="350" font-family="Arial" font-size="12">0.98</text>
+<rect x="420.0" y="336" width="400.0" height="20" fill="#DD8452" rx="3"/>
+<text x="824.0" y="350" font-family="Arial" font-size="12">1.00</text>
+<text x="190" y="396" font-family="Arial" font-size="13" text-anchor="end">产物</text>
+<rect x="200" y="382" width="150.0" height="20" fill="#4C72B0" rx="3"/>
+<text x="354.0" y="396" font-family="Arial" font-size="12">0.38</text>
+<rect x="420.0" y="382" width="398.4" height="20" fill="#DD8452" rx="3"/>
+<text x="822.4" y="396" font-family="Arial" font-size="12">1.00</text>
+<text x="190" y="442" font-family="Arial" font-size="13" text-anchor="end">平均值</text>
+<rect x="200" y="428" width="279.8" height="20" fill="#4C72B0" rx="3"/>
+<text x="483.75" y="442" font-family="Arial" font-size="12">0.70</text>
+<rect x="420.0" y="428" width="370.6" height="20" fill="#DD8452" rx="3"/>
+<text x="794.5500000000001" y="442" font-family="Arial" font-size="12">0.93</text>
+<rect x="200" y="454" width="16" height="16" fill="#4C72B0"/>
+<text x="222" y="467" font-family="Arial" font-size="13">规则管线</text>
+<rect x="290" y="454" width="16" height="16" fill="#DD8452"/>
+<text x="312" y="467" font-family="Arial" font-size="13">大模型</text>
+</svg>
